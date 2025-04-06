@@ -1,6 +1,6 @@
 ! Title: Filtro de evasion de bloqueos de LaLiga
 ! Description: Filtro que aprovecha las bondades de Cloudflare para evadir los bloqueos de LaLiga
-! Version: 2025.04.06.1
+! Version: 2025.04.06.2
 ! ----------------------------------------------------------------------------------------------- !
 ! Uptime Karma para comprobar los bloqueos
 199.34.228.49 uptime.sconde.net
@@ -15,6 +15,7 @@
 ! RAE (usa IPs propias, se rota a la IP siguiente)
 104.26.1.152 rae.es
 104.26.1.152 www.rae.es
+104.26.1.152 dle.rae.es
 ! ----------------------------------------------------------------------------------------------- !
 ! Sitios que usan Cloudflare gratuito
 199.34.228.49 kelme.com
@@ -55,8 +56,6 @@
 199.34.228.49 yugo.com
 199.34.228.49 rtvce.es
 199.34.228.49 9to5linux.com
-199.34.228.49 mediterraneodigital.com
-199.34.228.49 www.mediterraneodigital.com
 199.34.228.49 ciudadreal.com
 199.34.228.49 mondosonoro.com
 199.34.228.49 www.mondosonoro.com
@@ -67,3 +66,10 @@
 199.34.228.49 zapeat.es
 199.34.228.49 fakexy.com
 199.34.228.49 play2048.co
+199.34.228.49 grpc.io
+199.34.228.49 dolarhoy.com
+199.34.228.49 webcamtests.com
+199.34.228.49 mictests.com
+199.34.228.49 reverseimagesearch.org
+199.34.228.49 cybersecuritynews.com
+199.34.228.49 playpaste.com
