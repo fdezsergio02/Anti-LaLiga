@@ -1,6 +1,6 @@
 # Title: Filtro de evasion de bloqueos de LaLiga
 # Description: Filtro que aprovecha las bondades de Cloudflare para evadir los bloqueos de LaLiga
-# Version: 2025.04.06.2
+# Version: 2025.04.06.3
 # ----------------------------------------------------------------------------------------------- #
 # Uptime Karma para comprobar los bloqueos
 199.34.228.49 uptime.sconde.net
@@ -33,6 +33,7 @@
 199.34.228.49 www.ciberned.es
 199.34.228.49 cobalt.tools
 199.34.228.49 tdtchannels.com
+199.34.228.49 www.tdtchannels.com
 199.34.228.49 snapdrop.net
 199.34.228.49 mtr.tools
 199.34.228.49 ipquery.io
@@ -73,3 +74,7 @@
 199.34.228.49 reverseimagesearch.org
 199.34.228.49 cybersecuritynews.com
 199.34.228.49 playpaste.com
+199.34.228.49 theretroweb.com
+# ----------------------------------------------------------------------------------------------- #
+# Sitios que usan Wangsu (otro CDN afectado)
+138.113.167.112 doc.samsungmobile.com
