@@ -1,54 +1,69 @@
-104.21.48.2 kelme.com
-104.21.48.2 www.kelme.com
-104.21.48.2 intercambiosvirtuales.org
-104.21.48.2 www.intercambiosvirtuales.org
-104.21.80.2 learnubuntu.com
-104.21.80.2 lenguajejs.com
-104.21.48.2 lenguajehtml.com
-104.21.32.2 terminaldelinux.com
-104.21.112.2 reflot.es
-104.26.0.151 rae.es
-104.26.0.151 www.rae.es
-104.21.64.2 ciberisciii.es
-104.21.64.2 www.ciberisciii.es
-104.21.64.2 ciberned.es
-104.21.64.2 www.ciberned.es
-104.21.48.2 cobalt.tools
-104.21.80.2 tdtchannels.com
-104.21.48.2 snapdrop.net
-104.21.16.2 mtr.tools
-104.21.64.2 ipquery.io
-104.21.112.2 myinstants.com
-104.21.112.2 www.myinstants.com
-104.21.16.2 conda.io
-104.21.16.2 cookieconsent.com
-104.21.16.2 www.cookieconsent.com
-104.21.32.2 grpc.io
-104.21.112.2 dnslytics.com
-104.21.112.2 ublockorigin.com
-104.21.32.2 qbittorrent.org
-104.21.32.2 www.qbittorrent.org
-104.21.64.2 imgbb.com
-104.21.64.2 es.imgbb.com
-104.21.80.2 linuxgsm.com
-104.21.80.2 material-tailwind.com
-104.21.80.2 www.material-tailwind.com
-104.21.48.2 canyoublockit.com
-104.21.16.2 nebulahosting.es
-104.21.48.2 yugo.com
-104.21.32.2 microsofters.com
-104.21.32.2 rtvce.es
-104.21.48.2 9to5linux.com
-104.21.64.2 mediterraneodigital.com
-104.21.64.2 www.mediterraneodigital.com
-104.21.64.2 ciudadreal.com
-104.21.96.2 mondosonoro.com
-104.21.96.2 www.mondosonoro.com
-104.21.16.2 nosololinux.es
+# Title: Filtro de evasion de bloqueos de LaLiga
+# Description: Filtro que aprovecha las bondades de Cloudflare para evadir los bloqueos de LaLiga
+# Version: 2025.04.06.1
+# ----------------------------------------------------------------------------------------------- #
+# Uptime Karma para comprobar los bloqueos
+199.34.228.49 uptime.sconde.net
+199.34.228.49 uptime.nosekefik.com
+# ----------------------------------------------------------------------------------------------- #
+# BandaAncha (usa IPs propias, se rota a la IP siguiente) [Desactivada]
+# 104.21.10.212 bandaancha.eu
+# ----------------------------------------------------------------------------------------------- #
+# ChatGPT (usa IPs propias, se rota a la IP siguiente)
 172.64.150.29 chat.openai.com
-104.21.32.2 esphome.io
-104.21.32.2 web.esphome.io
-104.21.32.2 devices.esphome.io
-104.21.96.2 zapeat.es
-104.21.32.2 uptime.sconde.net
-104.21.32.2 uptime.nosekefik.com
+# ----------------------------------------------------------------------------------------------- #
+# RAE (usa IPs propias, se rota a la IP siguiente)
+104.26.1.152 rae.es
+104.26.1.152 www.rae.es
+# ----------------------------------------------------------------------------------------------- #
+# Sitios que usan Cloudflare gratuito
+199.34.228.49 kelme.com
+199.34.228.49 www.kelme.com
+199.34.228.49 intercambiosvirtuales.org
+199.34.228.49 www.intercambiosvirtuales.org
+199.34.228.49 learnubuntu.com
+199.34.228.49 lenguajejs.com
+199.34.228.49 lenguajehtml.com
+199.34.228.49 terminaldelinux.com
+199.34.228.49 reflot.es
+199.34.228.49 ciberisciii.es
+199.34.228.49 www.ciberisciii.es
+199.34.228.49 ciberned.es
+199.34.228.49 www.ciberned.es
+199.34.228.49 cobalt.tools
+199.34.228.49 tdtchannels.com
+199.34.228.49 snapdrop.net
+199.34.228.49 mtr.tools
+199.34.228.49 ipquery.io
+199.34.228.49 myinstants.com
+199.34.228.49 www.myinstants.com
+199.34.228.49 conda.io
+199.34.228.49 cookieconsent.com
+199.34.228.49 www.cookieconsent.com
+199.34.228.49 grpc.io
+199.34.228.49 dnslytics.com
+199.34.228.49 ublockorigin.com
+199.34.228.49 qbittorrent.org
+199.34.228.49 www.qbittorrent.org
+199.34.228.49 imgbb.com
+199.34.228.49 es.imgbb.com
+199.34.228.49 linuxgsm.com
+199.34.228.49 material-tailwind.com
+199.34.228.49 www.material-tailwind.com
+199.34.228.49 canyoublockit.com
+199.34.228.49 nebulahosting.es
+199.34.228.49 yugo.com
+199.34.228.49 rtvce.es
+199.34.228.49 9to5linux.com
+199.34.228.49 mediterraneodigital.com
+199.34.228.49 www.mediterraneodigital.com
+199.34.228.49 ciudadreal.com
+199.34.228.49 mondosonoro.com
+199.34.228.49 www.mondosonoro.com
+199.34.228.49 nosololinux.es
+199.34.228.49 esphome.io
+199.34.228.49 web.esphome.io
+199.34.228.49 devices.esphome.io
+199.34.228.49 zapeat.es
+199.34.228.49 fakexy.com
+199.34.228.49 play2048.co
