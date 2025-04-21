@@ -1,0 +1,23 @@
+! Title: Filtro de evasion de bloqueos de LaLiga
+! Description: Filtro que aprovecha las bondades de Cloudflare para evadir los bloqueos de LaLiga
+! Version: 2025.04.21.1
+! Esta versión es una variante para mi uso personal. No están todos los dominios con IPs bloqueadas
+! -------------------------------------------------------------------------------------------------- !
+! BunnyCDN
+||cdn.bsky.app^$dnsrewrite=NOERROR;A;185.93.3.244
+! -------------------------------------------------------------------------------------------------- !
+! Cloudflare
+||addr.tools^$dnsrewrite=NOERROR;A;199.34.228.49
+||chat.openai.com^$dnsrewrite=NOERROR;A;199.34.228.49
+||dnscheck.tools^$dnsrewrite=NOERROR;A;199.34.228.49
+||intercambiosvirtuales.org^$dnsrewrite=NOERROR;A;199.34.228.49
+||nosekefik.com^$dnsrewrite=NOERROR;A;199.34.228.49
+||qbittorrent.org^$dnsrewrite=NOERROR;A;199.34.228.49
+||r2.cloudflarestorage.com^$dnsrewrite=NOERROR;A;199.34.228.49
+||rae.es^$dnsrewrite=NOERROR;A;199.34.228.49
+||sconde.net^$dnsrewrite=NOERROR;A;199.34.228.49
+||tdtchannels.com^$dnsrewrite=NOERROR;A;199.34.228.49
+! -------------------------------------------------------------------------------------------------- !
+! Wangsu
+||doc.samsungmobile.com^$dnsrewrite=NOERROR;A;138.113.167.112
+||fota-secure-dn.ospserver.net^$dnsrewrite=NOERROR;A;199.34.228.49
